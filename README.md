@@ -1,3 +1,3 @@
-# Azure-Security-Center-Cookbook
-Azure Security Center Cookbook
-Azure Security Center Cookbook
+# Microsoft Defender for Cloud Cookbook
+Microsoft Defender for Cloud Cookbook
+
