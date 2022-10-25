@@ -56,3 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 He is a Security and Cloud professional, architect, and instructor. More than two decades ago, he began programming in Assembler on Sir Clive Sinclair's ZX, met Windows NT 3.5, and was hooked to IT ever since. He is CEO at Kloudatech - Microsoft Partner, CompTIA Authorized Delivery Partner, Amazon Web Services Partner company - that helps businesses and individuals around the globe to embrace the cloud and be safe in cyberspace. Aside from Cloud/Security Architecture and consulting, he delivers Microsoft, EC-Council, CompTIA and bespoke courses and PowerClass Workshops internationally.
 For exceptional community contributions, Sasha has been awarded a Microsoft Most Valuable Professional (MVP) award in the Azure category. Sasha is a Microsoft Certified Trainer (MCT), MCT Regional Lead, Certified EC-Council Instructor (CEI), and a frequent speaker at various international conferences, user groups and events.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801076135">https://packt.link/free-ebook/9781801076135 </a> </p>
